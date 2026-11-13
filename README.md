@@ -1,6 +1,6 @@
 # Archivo histórico — concepto inicial de Will App
 
-<badge>HISTÓRICO · NO ES IMPLEMENTACIÓN ACTIVA</badge>
+**ESTADO: HISTÓRICO · NO ES IMPLEMENTACIÓN ACTIVA**
 
 Este repositorio conserva la formulación inicial del concepto de Will App. Su contenido se mantiene como antecedente documental y no como fuente operativa de producto, código o conocimiento.
 
